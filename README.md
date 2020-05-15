@@ -1,4 +1,4 @@
-# Recommendations-with-IBM
+# Recommendations with IBM
 This project analyzes the interactions that users have with articles on the IBM Watson Studio and make recommendations to them about new articles that they might like.
 
 This project is divided into the following tasks
@@ -23,3 +23,12 @@ Function `create_user_item_matrix`: reformat the df dataframe to be shaped with 
 
 V. Matrix Factorization
 Built using matrix factorization to make article recommendations to the users on the IBM Watson Studio platform
+
+## Content
+  * project tests.py
+  * Recommendations with IBM ipynb file
+
+
+## About
+
+  * Created this project as part of the Udacity Data Scientist Nanodegree programme.
